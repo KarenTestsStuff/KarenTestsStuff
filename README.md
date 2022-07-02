@@ -1,6 +1,6 @@
-# ✨Karen Tests Stuff, now on GitHub!!!✨
-![The KarenTestsStuff Avatar](https://user-images.githubusercontent.com/57691657/176986615-51f89797-5140-4442-8736-51e01a67a5d9.png)
+<img width="765" alt="Banner for GitHub" src="https://user-images.githubusercontent.com/57691657/176986951-77fde5a6-0af5-4adf-bfa3-13d10b3b88d4.png">
 
+## ✨Karen Tests Stuff, now on GitHub!!!✨
 I am Karen of Karen Tests Stuff on [YouTube](https://www.youtube.com/channel/UCaILiR0XEzf0Y1QvibzybCQ) and @KarenTestsStuff on [Twitter](https://twitter.com/KarenTestsStuff). 
 
 **About Me:** I am a software tester, looking for work outside of the United States - find me on [LinkedIn](https://www.linkedin.com/in/karentestsstuff/)
