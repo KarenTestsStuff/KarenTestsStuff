@@ -9,7 +9,7 @@ I am Karen of Karen Tests Stuff on [YouTube](https://www.youtube.com/channel/UCa
   - Re-learning Cypress
   - Brushing up on JavaScript
 - ✍️ Currently working on:
-  - This profile
+  - Just started Ministry of Testing's [Let's Build an API Checking Framework](https://www.ministryoftesting.com/dojo/courses/let-s-build-an-api-checking-framework-mark-winteringham) by Mark Winteringham, to grow my API testing skills
   - Writing about my job search
   - Working on said job search
 - 🥺 Goals:
