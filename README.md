@@ -5,13 +5,9 @@ I am Karen of Karen Tests Stuff on [YouTube](https://www.youtube.com/channel/UCa
 
 **About Me:** I am a software tester, looking for work outside of the United States - find me on [LinkedIn](https://www.linkedin.com/in/karentestsstuff/)
 - 👩‍💻 I'm currently learning about:
-  - End to end system architecture
-  - Looking into Linux
-  - Brushing up on JavaScript
+  - Front end testing frameworks... see my public repo for spring-petclinic
 - ✍️ Currently working on:
-  - Just started Ministry of Testing's [Introduction to HTTP](https://www.ministryoftesting.com/dojo/courses/introduction-to-http) by Mark Winteringham, to grow my API testing skills
-  - Writing about my job search
-  - Working on said job search
+  - Announcement soon to come (fingers crossed)
 - 🥺 Goals:
-  - Commit to creating a full single page application built from the ground up
-  - Commit to adding some automated testing into my repositories
+  - Knock out pet clinic project
+  - Get back to my systems architecture project...TBC!
