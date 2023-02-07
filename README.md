@@ -5,9 +5,10 @@ I am Karen of Karen Tests Stuff on [YouTube](https://www.youtube.com/channel/UCa
 
 **About Me:** I am a software tester, looking for work outside of the United States - find me on [LinkedIn](https://www.linkedin.com/in/karentestsstuff/)
 - 👩‍💻 I'm currently learning about:
-  - Front end testing frameworks... see my public repo for spring-petclinic
+  - Coming soon
 - ✍️ Currently working on:
-  - Announcement soon to come (fingers crossed)
+  - "ADHD and Me: How neurodivergence boosts my testing" for Ministry of Testing's [TestBash Spring 2023](https://www.ministryoftesting.com/events/testbash-spring-2023)
+  - "The Fellowship of the Test" for [Agile Testing Days USA 2023](https://agiletestingdays.us/) **Message me on social media for 10% OFF registration**
 - 🥺 Goals:
-  - Knock out pet clinic project
-  - Get back to my systems architecture project...TBC!
+  - Finish the above presentations ON SCHEDULE
+  - Coming soon
