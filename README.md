@@ -5,11 +5,14 @@ I am Karen of Karen Tests Stuff on [YouTube](https://www.youtube.com/channel/UCa
 
 **About Me:** I am a software tester - find me on [LinkedIn](https://www.linkedin.com/in/karentestsstuff/)
 - 👩‍💻 I'm currently learning about:
-  - ISTQB Certified Tester - Foundation Level
+  - Living and thriving after an international relocation
+  - Transferring some of my existing video content into a set of blog posts
 - ✍️ Currently working on:
-  - Speaking at [Agile Testing Days](https://agiletestingdays.com/) 2023 in Germany
+  - A public speaking workshop for [TestBash Brighton 2024](https://www.ministryoftesting.com/events/testbash-brighton-2024)
+  - A collaborative Developer and Tester presentation for [SWETUGG GÖTEBORG](https://www.swetugg.se/gbg-2024)
 - 🥺 Goals:
-  - To create opportunities to expand my network for good, across practices
+  - To encourage more new public speakers
+  - To teach people about my lessons learned from relocation
 
 ### Looking for resources from a talk?
 Check out my PresentationResources repo [HERE](https://github.com/KarenTestsStuff/PresentationResources)
